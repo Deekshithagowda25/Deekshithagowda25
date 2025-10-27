@@ -6,7 +6,7 @@
 ---
 
 ### 👩‍💻 About Me
-I'm a **Computer Science and Design student** at **PES Institute of Technology and Management** (2023–2027).  
+Deekshitha M R   
 A passionate and detail-oriented learner with a strong interest in **software development**, **AI**, **IoT**, and **embedded systems**.  
 I love exploring emerging technologies to create impactful and innovative engineering solutions.
 
