@@ -18,7 +18,7 @@ I love exploring emerging technologies to create impactful and innovative engine
 | Level | Institution | Duration |
 | :---: | :----------- | :-------: |
 | **B.Tech in Computer Science and Design** | PES Institute of Technology and Management | 2023–2027 |
-| **Pre-University Course (PCMC)** | Sri Adichunchanagiri Vidyha Trust Composite PU College | 2021–2023 |
+| **Pre-University Course (PCMB)** | Sri Adichunchanagiri Vidyha Trust Composite PU College | 2021–2023 |
 | **Secondary School** | Sri Adichunchanagiri Vidyha Vardhaka Trust High School | – |
 
 </p>
